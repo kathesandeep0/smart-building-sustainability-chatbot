@@ -173,12 +173,6 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn streamlit plotl
 ```bash
 jupyter notebook
 ```
-
-## Run Streamlit Dashboard
-```bash
-streamlit run app.py
-```
-
 ---
 
 # Folder Structure
