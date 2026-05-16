@@ -231,10 +231,3 @@ project/
 This project demonstrates how Artificial Intelligence, Machine Learning, and Data Science can improve building sustainability through predictive analytics and intelligent automation. The chatbot-based interface enhances accessibility to sustainability insights and supports efficient building management decisions using real-time analytical interaction.
 
 ---
-
-# Author
-
-**Project Title:** Increasing Building Sustainability Using Data Science  
-**Developed By:** Your Name  
-**University:** Your University Name  
-**Course:** Your Course Name  
